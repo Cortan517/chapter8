@@ -6,6 +6,6 @@ In this chapter, I learned how to implement effective navigation in a mobile app
 ![11](https://github.com/user-attachments/assets/4135cb8f-5a3c-4079-986b-3077ad7d89b8)
 ![33](https://github.com/user-attachments/assets/13123ddc-65d9-4396-a18b-70731f673cea)
 ![22](https://github.com/user-attachments/assets/4672b5b9-5265-4b62-abc6-ecc21d224eec)
-# outpot
+# output
 ![44](https://github.com/user-attachments/assets/da1ca697-0d58-42f7-8ade-43cb852c4bd6)
 
